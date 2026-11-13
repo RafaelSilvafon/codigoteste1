@@ -12,3 +12,5 @@ describe("senhaValida", () => {
         expect(senhaValida("abcdefgh")).toBe(false);
     });    
 });
+
+//Rafael
